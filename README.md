@@ -1,8 +1,8 @@
-AlloyTimer
+周建安
 ==========
-AlloyTimer定时器 - 番茄工作法的时间管理应用
+周建安定时器 - 番茄工作法的时间管理应用
 
-By [AlloyTeam](http://www.AlloyTeam.com/)
+By [Zhou JianAn](http://www.zhiaimai.com/)
 
 
 ### 番茄工作方法
