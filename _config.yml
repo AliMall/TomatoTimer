@@ -1,0 +1,8 @@
+title: AlloyTimer
+description: AlloyTimer定时器 - 番茄工作法的时间管理应用
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
