@@ -276,7 +276,7 @@ Jx().$package(function(J){
 	};
 
 	//J.sound.init();
-	//J.sound.load("./audio/ring.mp3");
+	//J.sound.load("./audio/ding.mp3");
 	initLocalStorage();
 
 	showTaskList(tomatoData)
