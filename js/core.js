@@ -106,7 +106,7 @@ soundManager.onready(function() {
   canPlaySound=true;
   TimeUpSound = soundManager.createSound({
     id: 'aSound',
-    url: '/assets/ring/ring.mp3',
+    url: '/assets/ring/ding.mp3',
     autoLoad:true,
     loops:3
   });
